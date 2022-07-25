@@ -1,7 +1,12 @@
 # odin-recipes
 
-Objective of this project:
+This is a brief introduction describing what this project is and what skills I will have demonstrated once completed.
 
-1. Showcase current level of abilites and knowledge of HTML and Git 
-2. Begin development of healthy habits for documentation
-3. Build website displaying three different recipes
+1. I will demonstrate a novice level of Git:
+  1a. Creating a repository on Github.com
+  1b. Using the git clone command
+  1c. Setting up my first README file
+
+2. I will demonstrate novice level of HTML:
+
+
